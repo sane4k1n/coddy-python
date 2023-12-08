@@ -1,5 +1,4 @@
 # coddy-python
 
-Coddy School
-Python
+Coddy School VRN - Python
 2023-2024
